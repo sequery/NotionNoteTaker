@@ -1,4 +1,4 @@
-# Notion Book Summarizer
+# Notion Note Taker
 
 This project automates the process of summarizing books marked as "Completed" in a Notion database. It uses OpenAI's GPT model to generate structured summaries and stores them in a separate Notion database.
 
